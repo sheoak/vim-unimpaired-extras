@@ -22,7 +22,7 @@ installed, then it's just ignored.
 
 ## Configure denite
 
-To configure the command fore denite, put in your vim configuration:
+You can configure the command use to toggle hidden files for Denite:
 
   ```
   if (executable('ag'))
