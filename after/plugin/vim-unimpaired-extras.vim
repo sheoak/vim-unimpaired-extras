@@ -47,8 +47,8 @@ endif
 
 " vim-markdown
 if exists("g:mkdp_auto_start")
-  call s:map('n', '[om', '<Plug>MarkdownPreviewStop', '<silent>')
-  call s:map('n', ']om', '<Plug>MarkdownPreview', '<silent>')
+  call s:map('n', '[om', '<Plug>MarkdownPreview', '<silent>')
+  call s:map('n', ']om', '<Plug>MarkdownPreviewStop', '<silent>')
   call s:map('n', 'yom', '<Plug>MarkdownPreviewToggle', '<silent>')
 endif
 
