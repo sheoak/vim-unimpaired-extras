@@ -8,16 +8,16 @@ installed, then it's just ignored.
 
 ## List of plugins / mappings:
 
-| Plugin              | mappings                                                       |
-|---------------------|----------------------------------------------------------------|
-| [Git Gutter][2]     | [og ]og yog enable/disable/toggle Git Gutter Highlight         |
-| [Grammarous][3]     | [g ]g go to next/previous error                                |
-| [vim-table-mode][4] | [ot ]ot yot enable/disable/toggle table mode                   |
-| [vim-mkdp][5]       | [om ]om yom enable/disable/toggle Markdown preview             |
-| [deoplete][6]       | [o<tab> ]o<tab> yo<tab> enable/disable/toggle auto-completion_ |
-| [ALE][7]            | [oa ]oa yoa enable/disable/toggle ALE checking                 |
-| [Goyo][8]           | yoy toggle Goyo                                                |
-| [Denite][9]         | toggle hidden files for file/rec source                        |
+| Plugin              | mappings                                                             |
+|---------------------|----------------------------------------------------------------------|
+| [Git Gutter][2]     | `[og` `]og` `yog` enable/disable/toggle Git Gutter Highlight         |
+| [Grammarous][3]     | `[g` `]g` go to next/previous error                                  |
+| [vim-table-mode][4] | `[ot` `]ot` `yot` enable/disable/toggle table mode                   |
+| [vim-mkdp][5]       | `[om` `]om` `yom` enable/disable/toggle Markdown preview             |
+| [deoplete][6]       | `[o<tab>` `]o<tab>` `yo<tab>` enable/disable/toggle auto-completion_ |
+| [ALE][7]            | `[oa` `]oa` `yoa` enable/disable/toggle ALE checking                 |
+| [Goyo][8]           | `yoy` toggle Goyo                                                    |
+| [Denite][9]         | `[o.` `]o.` enable/disable hidden files for file/rec source          |
 
 
 ## Configure denite
